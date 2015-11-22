@@ -1,0 +1,4 @@
+---
+typesafe_activator_name : "typesafe-activator-{{ typesafe_activator_version }}"
+typesafe_activator_archive : "{{typesafe_activator_name}}.zip"
+typesafe_activator_url : "{{typesafe_activator_mirror}}/{{ typesafe_activator_version }}/{{ typesafe_activator_archive }}"
